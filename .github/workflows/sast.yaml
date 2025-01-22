@@ -65,7 +65,7 @@ jobs:
           recursive: true
           failure-threshold: warning
 
-          
+
   Semgrep-Scan:
     runs-on: ubuntu-latest
     container:
