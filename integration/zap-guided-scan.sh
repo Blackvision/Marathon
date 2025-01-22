@@ -40,7 +40,6 @@ curl -s "http://localhost:7777/JSON/reports/action/generate/?title=Marathon+Guid
 #curl -s "http://localhost:7777/JSON/reports/action/generate/?title=Marathon+Guided+Scan&template=sarif-json&theme=&description=Guided+Scan+of+Marathon&contexts=&sites=&sections=&includedConfidences=&includedRisks=&reportFileName=report.json&reportFileNamePattern=&reportDir=/tmp&display="
 
 
-
 # debug logs
 #find /home/runner/.ZAP
 #cat /home/runner/.ZAP/zap.log
